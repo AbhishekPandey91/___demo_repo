@@ -1,2 +1,2 @@
-# ___demo_repo
-🛡️ Security-fixed (Pattern + AI)
+# demo
+just for cybersecurity check
